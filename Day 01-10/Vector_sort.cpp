@@ -7,7 +7,7 @@
 
 
 int main() {
-    int n; // number of integers
+    int n; 
     std::cin >> n;
 
     std::vector<int> v(n);
