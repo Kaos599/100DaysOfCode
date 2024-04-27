@@ -16,7 +16,7 @@ To explore my solutions:
 
 git clone https://github.com/Kaos599/100DaysOfCode.git
 cd 100DaysOfCode
-# Navigate to the day's challenge you're interested in
+### Navigate to the day's challenge you're interested in
 
 ## Contributing
 Feel free to fork this repository, explore the solutions, and suggest improvements or alternative approaches to the problems.
