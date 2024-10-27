@@ -19,4 +19,4 @@ jobs:
       run: pip install black
 
     - name: Run Black
-      run: black --check --diff "100DaysOfCode/Day 01-10"
+      run: black --check --diff "/Day 01-10"
